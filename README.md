@@ -36,3 +36,8 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+
+## Resolução
+O código foi completado por mim, com os conhecimentos adiquiridos até o momento no bootcamp.
+Apesar de nâo ter sido solicitado, eu decide fazer uma pequena alteração no arquivo Program.cs, na linha 55 para ficar mais coeso, ja que em meus testes, apenas a tecla enter dava continuidade ao programa.
