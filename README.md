@@ -39,5 +39,5 @@ O código está pela metade, e você deverá dar continuidade obedecendo as regr
 
 
 ## Resolução
-O código foi completado por mim, com os conhecimentos adiquiridos até o momento no bootcamp.
-Apesar de nâo ter sido solicitado, eu decide fazer uma pequena alteração no arquivo Program.cs, na linha 55 para ficar mais coeso, ja que em meus testes, apenas a tecla enter dava continuidade ao programa.
+O código foi completado por mim, com os conhecimentos adquiridos até o momento no bootcamp.
+Apesar de nâo ter sido solicitado, eu decide fazer uma pequena alteração no arquivo Program.cs, na linha 55 para ficar mais coeso, já que em meus testes, apenas a tecla "enter" dava continuidade ao programa.
